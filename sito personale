@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ginevra's Personal Page</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f3f3f3;
+            color: #333;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #87CEEB; /* Sky Blue */
+            padding: 20px;
+            text-align: center;
+        }
+        h1 {
+            margin: 0;
+            font-size: 2.5rem;
+            color: #fff;
+        }
+        nav {
+            text-align: center;
+            margin-top: 20px;
+        }
+        nav a {
+            text-decoration: none;
+            color: #333;
+            padding: 10px 20px;
+            border-radius: 5px;
+            background-color: #87CEEB; /* Sky Blue */
+            margin: 0 5px;
+        }
+        nav a:hover {
+            background-color: #4682B4; /* Steel Blue */
+            color: #fff;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: #fff;
+            border-radius: 10px;
+        }
+        footer {
+            background-color: #87CEEB; /* Sky Blue */
+            padding: 20px;
+            text-align: center;
+            margin-top: 20px;
+        }
+        footer p {
+            margin: 0;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to Ginevra's Personal Page</h1>
+    <nav>
+        <a href="#about">About Me</a>
+        <a href="#interests">Interests</a>
+        <a href="#favorites">Favorites</a>
+    </nav>
+</header>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>Hi there! I'm Ginevra. I enjoy spending time with my friends, cooking delicious meals, and exploring the outdoors. I especially love the warmth of spring and summer, and you'll often find me wearing flowy dresses and going on walks or bike rides in the countryside under the sun.</p>
+</section>
+
+<section id="interests">
+    <h2>Interests</h2>
+    <p>Some of my interests include doing makeup, indulging in hot showers, and savoring a crisp Caesar salad.</p>
+</section>
+
+<section id="favorites">
+    <h2>Favorites</h2>
+    <p>One of my favorite things to do is smoking cigarettes at night under a full moon during the summer.</p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Ginevra. All rights reserved.</p>
+</footer>
+
+</body>
+</html>
